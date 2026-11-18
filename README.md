@@ -1,4 +1,5 @@
 # Math215
 
-###Final Project Ideas
+### Final Project Ideas
+
 Investigating Global Cuisines 
