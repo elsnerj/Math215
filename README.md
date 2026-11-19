@@ -1,4 +1,4 @@
-# Math215
+# Josie Elsner Math215
 
 ### Final Project Ideas
 
